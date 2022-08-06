@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhanjaved786
-- 👀 I’m interested in web development and blockchain development.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in blockchain development.
+- 🌱 I’m currently working as a Blockchain developer .
+- 💞️ I’m looking to collaborate on new Blockchain development and use cases.
 - 📫 How to reach me you can text me personally.
 
 <!---
